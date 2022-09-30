@@ -13,7 +13,7 @@ class Node<T> {
     }
     public T getValue(){
         return this.value;
-    }1
+    }
     public String toString(){
         return String.valueOf(value);
     }
